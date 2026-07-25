@@ -8,7 +8,7 @@ This project is an interactive Power BI dashboard built using the Superstore Ret
 
 ## 📸 Dashboard Preview
 
-![Retail Sales Dashboard](DashboardpowerBI.png)
+![Retail Sales Dashboard](./dashboardpowerBI.png)
 
 ---
 
