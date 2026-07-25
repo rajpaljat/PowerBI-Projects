@@ -44,7 +44,7 @@ The objective of this project is to analyze retail sales data and build an inter
 
 ## 📂 Project Files
 
-- Retail-Sales-Dashboard.pbix
+- Retail Sales Dashboard.pbix
 - DashboardpowerBI.png
 
 ---
